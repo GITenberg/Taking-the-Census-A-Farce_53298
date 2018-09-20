@@ -1,5 +1,8 @@
 _repo: Taking-the-Census-A-Farce_53298
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53298-h/images/cover.jpg
 creator:
   author:
     agent_name: Guptill, Elizabeth F. (Elizabeth Frances)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '47312'
     url: http://www.gutenberg.org/2009/agents/47312
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53298#Taking-the-Census-A-Farce
 gutenberg_issued: '2016-10-17'
 gutenberg_type: Text
 identifiers:
